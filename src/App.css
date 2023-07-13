@@ -1,0 +1,65 @@
+.mainn{
+   background-image: linear-gradient(rgb(0, 162, 255),rgb(255, 192, 255));
+   width: 100%;
+   height: 680px;
+   padding: 0px;
+
+}
+.heading{
+  text-shadow: 2px 2px aqua;
+  position: absolute;
+  left: 400px;
+  font-size: 40px;
+}
+.funbutton{
+  position: absolute;
+  left: 250px;
+  width: 320px;
+  height: 80px;
+  border-radius: 25px;
+  top: 150px;
+  background-color: darkturquoise;
+  font-size: large;
+
+
+}
+.classbutton{
+  position: absolute;
+  left: 1000px;
+  width: 300px;
+  height: 80px;
+  border-radius: 25px;
+  top: 150px;
+  background-color: darkturquoise;
+  font-size: large;
+
+}
+.funbox{
+  position: absolute;
+  top: 300px;
+  left: 200px;
+  width: 500px;
+  height: 250px;
+  border: 1px solid black;
+  background-color: aqua;
+  border-radius: 25px;
+  box-sizing: border-box;
+  padding-left: 15px;
+
+
+}
+.classbox{
+  position: absolute;
+  top: 300px;
+  left: 900px;
+  width: 500px;
+  height: 250px;
+  border: 1px solid black;
+  background-color: aqua;
+  border-radius: 25px;
+  box-sizing: border-box;
+  padding-left: 15px;
+}
+.fline{
+  color: rgb(226, 43, 89);
+}
